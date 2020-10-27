@@ -8,3 +8,12 @@
   text-align: center;
   padding-top: 30px;
 }
+
+span{
+  text-decoration: underline;
+}
+
+#yellow {
+  background-color: yellow;
+  display: inline
+}
